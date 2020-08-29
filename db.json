@@ -5,25 +5,6 @@
       "name":"Vamshi",
       "title": "Software Designer"
     }
-    {
-      "id" : 2,
-      "name":"Jack",
-      "title": "Software Developer"
-    }
-    {
-      "id" : 3,
-      "name":"Jeff",
-      "title": "product Designer"
-    }
-    {
-      "id" : 4,
-      "name":"Bansal",
-      "title": "Creator"
-    }
-    {
-      "id" : 5,
-      "name":"Aravind",
-      "title": "Dancer"
-    }
+    
 ]
 }
