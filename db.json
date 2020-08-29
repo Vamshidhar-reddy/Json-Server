@@ -1,4 +1,4 @@
-{
+[
     {
       "name":"Vamshi",
       "title": "Software Designer"
@@ -19,5 +19,4 @@
       "name":"Aravind",
       "title": "Dancer"
     }
-
-}
+]
