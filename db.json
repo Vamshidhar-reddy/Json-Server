@@ -2,27 +2,22 @@
   "posts": [
     {
       "name":"Vamshi"
-      "id": 1,
       "title": "Software Designer"
     }
     {
       "name":"Jack"
-      "id": 2,
       "title": "Software Developer"
     }
     {
       "name":"Jeff"
-      "id": 3,
       "title": "product Designer"
     }
     {
       "name":"Bansal"
-      "id": 4,
       "title": "Creator"
     }
     {
       "name":"Aravind"
-      "id": 5,
       "title": "Dancer"
     }
   ],
