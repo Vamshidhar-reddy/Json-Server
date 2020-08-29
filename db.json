@@ -1,23 +1,23 @@
 {
   "posts": [
     {
-      "name":"Vamshi"
+      "name":"Vamshi",
       "title": "Software Designer"
     }
     {
-      "name":"Jack"
+      "name":"Jack",
       "title": "Software Developer"
     }
     {
-      "name":"Jeff"
+      "name":"Jeff",
       "title": "product Designer"
     }
     {
-      "name":"Bansal"
+      "name":"Bansal",
       "title": "Creator"
     }
     {
-      "name":"Aravind"
+      "name":"Aravind",
       "title": "Dancer"
     }
   ],
